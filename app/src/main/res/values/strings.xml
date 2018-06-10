@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WireInspection</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sling_id">Sling ID#</string>
+    <string name="measured_diameter">Measured Diameter</string>
+    <string name="kinks">Kinks</string>
+    <string name="crushed">Crushed</string>
+    <string name="birdcage_1_lay">Birdcage (1 Lay)</string>
+    <string name="birdcage_1_strand">Birdcage (1 Strand)</string>
+    <string name="broken_wire">Broken Wire</string>
+    <string name="heat_damage">Heat Damage</string>
+    <string name="end_attachment_fitting">End Attachment Fitting</string>
+    <string name="end_attachment_broken_wires">End Attachment Broken Wires</string>
+    <string name="hook_condition">Hook Condition</string>
+    <string name="sling_is_serviceable">Sling is Serviceable</string>
+    <string name="sling_is_rejected">Sling is Rejected</string>
+    <string name="submit">Submit</string>
+    <string name="comments">Comments</string>
+
+</resources>
