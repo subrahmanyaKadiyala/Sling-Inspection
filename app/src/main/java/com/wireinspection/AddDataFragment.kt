@@ -77,7 +77,7 @@ class AddDataFragment : Fragment(), View.OnClickListener{
         return view
     }
     override fun onClick(p0: View?) {
-        callAPI().execute(URL(baseUrl+"" +
+     /*   callAPI().execute(URL(baseUrl+"" +
                 "?slingId="+slingId.text +
                 "&measuredDiameter="+measuredDiameter.text +
                 "&kinks="+kinks.text +
@@ -92,7 +92,7 @@ class AddDataFragment : Fragment(), View.OnClickListener{
                 "&slingIsServiceable="+slingIsServiceable.text +
                 "&slingIsRejected="+slingIsRejected.text +
                 "&comments="+comments.text
-        ))
+        ))*/
     }
 
 }
